@@ -5,7 +5,7 @@ URL Shortener for SASE Externship Interview
 1. git clone https://github.com/AleJim1216/SASE-Url-Shortener/
 2. npm install
 3. npm dev start
-  - Custom package.json script that will run nodemon paired with debug logs
+    - Custom package.json script that will run nodemon paired with debug logs
 4. Use API tester, such as cURL, Postman, etc. to POST requests and GET responses.
   - Ensure that responses are in the form of JSON.
 
